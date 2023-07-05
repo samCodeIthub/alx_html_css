@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>First File </title>
+</head>
+<body>
+
+
+    <h1>Animals</h1>
+    <h2>food</h2>
+    <h3>cats</h3>
+
+    
+    <p>This is a website of cutes cats</p>
+    <p>no other animals</p>
+    <p>but we will make an exception for dogs</p>
+    <p>but at a price</p>
+    <a href="https://www.bing.com/images/search?q=cute+cats&form=QBIL&qs=n&first=1&cw=1349&ch=699"><img src="pic/cuteness.jfif" alt="cat">
+    </a>
+</body>
+</html>
